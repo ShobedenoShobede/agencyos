@@ -1,0 +1,17 @@
+streamlit>=1.53.0
+streamlit-authenticator==0.3.1
+fastapi==0.115.4
+uvicorn==0.32.0
+requests==2.32.3
+langgraph==0.2.45
+mcp>=2.0.0
+chromadb==0.5.15
+plotly==5.24.1
+pandas==2.2.3
+PyYAML==6.0.2
+python-dotenv==1.0.1
+pytest==8.3.3
+graphifyy[mcp]>=0.5.4
+demandscope
+synaptiq>=2.0.4
+paypalrestsdk==1.13.1
